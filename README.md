@@ -1,6 +1,6 @@
 # Neural Network Predicting Chances of Admission at UCLA 
 
-[Visit app here]([URL](https://neural-network-mihir.streamlit.app/))
+[Visit the app here](https://neural-network-mihir.streamlit.app/)
  
 ## Project Overview
 
